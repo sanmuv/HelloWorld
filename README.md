@@ -1,2 +1,2 @@
 # HelloWorld - edited.
-Cheers!
+Cheers! Thanks for visiting!
